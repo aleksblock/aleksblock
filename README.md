@@ -3,7 +3,7 @@
 <h3 align="left">Software, Database, BI Developer from Moscow, Russia 🇷🇺</h3>
 
 - :rocket: I’m working in C# software development with using DevExpress UI Components
-- :battery: Designing SQL databases, ETL, Business analytics
+- :battery: Designing SQL databases, ETL, Business Intelligence
 - :dart: I’m also using business data analytics, data mining, PowerBI ...
  
 <!--
