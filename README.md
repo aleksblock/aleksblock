@@ -1,13 +1,14 @@
-<h1 align="left">Hi there, I'm <a href="https://github.com/aleksblock/" target="_blank">Aleks Block</a> 
+<h1 align="left">Hi there, I'm Aleks Block
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="left">Software, Database, BI Developer from Moscow,Russia 🇷🇺</h3>
+<h3 align="left">Software, Database, BI Developer from Moscow, Russia 🇷🇺</h3>
 
-- 👋 Hi, I’m @aleksblock
-- 🌱 I’m working in C# software development, SQL database design, Business Intelligence
-- 👀 I’m currently learning business data analytics, data mining, ...
+- :rocket: I’m working in C# software development,  DevExpress UI Components
+- :battery: SQL database design, ETL, Business Intelligence
+- :dart: I’m also using business data analytics, data mining, PowerBI ...
+ 
 <!--
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...:mortar_board:
 -->
 
 <h3 align="left">Languages and Tools:</h3>
