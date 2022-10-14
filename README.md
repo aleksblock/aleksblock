@@ -1,5 +1,5 @@
 <h2 align="left">Всем привет! Меня зовут Александр <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
-<h3 align="left">Fullstack .Net, SQL and BI разработчик</h3>
+<h3 align="left">Fullstack .NET, SQL and BI разработчик</h3>
 
 - :vs: Разработка ПО на .NET, C#, DevExpress UI Components
 - :battery: Проектирование SQL баз данных на MS SQL Server, Postgres
