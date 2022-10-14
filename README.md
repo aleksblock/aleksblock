@@ -1,19 +1,21 @@
-<h1 align="left">Hi there, I'm Aleks Block
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="left">Software, Database, BI Developer from Moscow, Russia 🇷🇺</h3>
+<h2 align="left">Всем привет! Меня зовут Александр <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
+<h3 align="left">Fullstack .Net, SQL and BI разработчик</h3>
 
-- :rocket: I’m working in C# software development with using DevExpress UI Components
-- :battery: Designing SQL databases, ETL, Business Intelligence
-- :dart: I’m also using business data analytics, data mining, PowerBI ...
- 
+- :vs: Разработка ПО на .NET, C#, DevExpress UI Components
+- :battery: Проектирование SQL баз данных на MS SQL Server, Postgres
+- :large_blue_diamond: Подготовка данных для аналитики ETL, OLAP, Business Intelligence
+- :dart: Аналитические решения - PowerBI, Tableau ...
+- ⚡ "Чтобы дойти до цели, нужно только одно. Идти."
+
 <!--
 - 👀 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...:mortar_board:
+- :rocket:
+- :heavy_check_mark:
 -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="48" height="48" /> </a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="48" height="48" /> </a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="48" height="48" /> </a>
    <!-- <a href="https://www.devexpress.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/4243232?s=200&v=4" alt="dev" width="40" height="40" /> </a> -->
