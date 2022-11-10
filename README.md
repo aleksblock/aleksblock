@@ -1,11 +1,21 @@
 <!--<h2 align="left">Всем привет! Меня зовут Александр <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>-->
 <h3 align="left">Fullstack .NET, SQL and BI developer</h3>
 
+- :vs: Software - .NET C#, WinForms, WPF, ASP.NET Web API, DevExpress UI Components
+- :battery:  Database - MS SQL Server, PostgreSQL
+- :large_blue_diamond: Data Warehouse - ETL, OLAP
+- :dart: Business Intelligence - PowerBI, Tableau, Yandex DataLens
+- ⚡ "Programming is a job and a hobby..."
+
+<!--
 - :vs: Разработка ПО на .NET, C#, DevExpress UI Components
 - :battery: Проектирование SQL баз данных на MS SQL Server, Postgres
 - :large_blue_diamond: Подготовка данных для аналитики ETL, OLAP, Business Intelligence
 - :dart: Аналитические решения - PowerBI, Tableau ...
 - ⚡ "Чтобы дойти до цели, нужно только одно. Идти."
+-->
+
+
 
 <!--
 - 👀 💞️ I’m looking to collaborate on ...
@@ -30,11 +40,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksblock&layout=compact)](https://github.com/aleksblock/github-readme-stats)
 -->
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksblock)](https://github.com/aleksblock/github-readme-stats)
+-->
 
-
-
+<!--
 [![codewars](https://www.codewars.com/users/aleksblock/badges/large)](https://www.codewars.com/users/aleksblock)   
+-->
 
 <!---
 aleksblock/aleksblock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
